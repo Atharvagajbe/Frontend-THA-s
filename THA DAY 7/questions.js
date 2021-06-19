@@ -77,3 +77,5 @@ for (var i = 0; i < library.length; i++)
       }
      
      console.log(library.sort(compare_to_sort));
+
+// THA DAY 7
